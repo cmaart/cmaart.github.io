@@ -1,0 +1,9 @@
+{
+    "uri": "bolt://localhost:7687",
+    "user": "",
+    "password": "",
+    "database": "neo4j",
+    "data_folder": "data",
+    "rinf_token_endpoint": "https://rinf.era.europa.eu/api/token",
+    "rinf_op_endpoint": "https://rinf.era.europa.eu/api/OperationalPoints"
+}
